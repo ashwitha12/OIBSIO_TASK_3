@@ -46,8 +46,4 @@ remove(l1)
          value1.value="";
      }
  }
- function removeAll()
- {
-     document.querySelector('container').innerHTML="";
-
- }
+ 
